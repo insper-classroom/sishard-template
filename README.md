@@ -1,2 +1,2 @@
-# 24-1-sishard-template
-SisHard 24-1 Template de Atividades
+# 24-2-sishard-template
+SisHard 24-2 Template de Atividades
