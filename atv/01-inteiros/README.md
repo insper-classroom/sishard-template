@@ -10,7 +10,7 @@
 ./bases_e_sinais < solucao.txt
 ```
  
- - Quando estiver tudo certo, **envie para o github suas alterações** e lance tag no padrão, trocando `x` e `y` por qualquer número de seu interesse:
+ - Quando estiver tudo certo, **envie suas alterações para o github** e lance tag no padrão, trocando `x` e `y` por qualquer número de seu interesse:
 
 ```
 git tag -a atv1.x.y -m "atv1.x.y"
