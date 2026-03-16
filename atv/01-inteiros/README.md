@@ -10,11 +10,10 @@
 ./bases_e_sinais < solucao.txt
 ```
  
- - Quando estiver tudo certo, **envie suas alterações para o github** e lance tag no padrão, trocando `x` e `y` por qualquer número de seu interesse:
+ - Quando estiver tudo certo, **envie suas alterações para o github** (`git add . && git commit -m "atv01" && git push`) e lance tag no padrão, trocando `x` e `y` por qualquer número de seu interesse:
 
 ```
 git tag -a atv1.x.y -m "atv1.x.y"
-
 git push origin atv1.x.y
 ```
 
